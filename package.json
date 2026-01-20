@@ -9,7 +9,6 @@
     "discord.js": "^14.14.1",
     "express": "^4.18.2",
     "dotenv": "^16.3.1"
-    // REMOVED: "@discordjs/voice": "^0.16.0"
   },
   "engines": {
     "node": "18.x"
